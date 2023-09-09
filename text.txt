@@ -1,0 +1,5 @@
+issues is numbering or ticket system assigned to task one by one in project to identify it.
+milestone is deadline of project to get things done on time
+fork is  getting the copy of repository to between orginazation projects or between user repostries that others can also make changes to it 
+pull is smiply gettingg the changes from online reposity to our local machine 
+branches are used to test and develope the change checkk and merge in origional branch 
